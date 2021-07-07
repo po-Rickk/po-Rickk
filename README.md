@@ -1,4 +1,4 @@
-### Hi there 👋<h1 align = "center"> Olá, mundo! Sou Henrique </h1>
+<h1 align = "center"> Olá, mundo! Sou Henrique </h1>
 <h3 align = "center"> Mero amante de tecnologia </h3>
 
 <p align = "left"> <a href = "https://github.com/ryo-ma/github -profile-trophy "> <img src =" https://github-profile-trophy.vercel.app/?username=po-rickk "alt =" po-rickk "/> </a> </p>
